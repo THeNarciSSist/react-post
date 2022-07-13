@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/THeNarciSSist/react-post/static/css/main.45240e4a.css",
+    "main.js": "/THeNarciSSist/react-post/static/js/main.7a6dca5a.js",
+    "index.html": "/THeNarciSSist/react-post/index.html",
+    "main.45240e4a.css.map": "/THeNarciSSist/react-post/static/css/main.45240e4a.css.map",
+    "main.7a6dca5a.js.map": "/THeNarciSSist/react-post/static/js/main.7a6dca5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45240e4a.css",
+    "static/js/main.7a6dca5a.js"
+  ]
+}
